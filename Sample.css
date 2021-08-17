@@ -3,6 +3,12 @@ html{
     scroll-behavior: smooth;  /* To make scrolling smooth */
 }
 
+h1
+{
+font-size: 1.75em;
+font-weight: normal;
+}
+
 ul.a {
   list-style-position: outside;    /* To keep bullet point outside text area */
   text-align: left;
